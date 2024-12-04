@@ -11,10 +11,10 @@ function App() {
 
 
   return (
-    <main className="container">
 
-      <RouterProvider router={router} />
-    </main>
+
+    <RouterProvider router={router} />
+
   );
 }
 
